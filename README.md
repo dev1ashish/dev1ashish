@@ -23,6 +23,7 @@ I'm Devashish, a passionate AI/ML enthusiast and software developer. I'm current
 - I can deadlift 220kg (conventional).
 
 ---
+## Tech Stack
 
 ![AI/ML](https://img.shields.io/badge/AI/ML-007ACC?style=for-the-badge&logo=nlp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,3 +31,11 @@ I'm Devashish, a passionate AI/ML enthusiast and software developer. I'm current
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-007ACC?style=for-the-badge&logo=nlp&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image_Processing-007ACC?style=for-the-badge&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-53B7DF?style=for-the-badge&logo=transformers&logoColor=white)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-007ACC?style=for-the-badge&logo=python&logoColor=white)
+
+
+

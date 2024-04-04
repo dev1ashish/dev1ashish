@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Devashish, a passionate AI/ML enthusiast and software developer. I'm currently working on projects that leverage machine learning to solve complex problems, improve user experiences, help hoomans reach mars(by generating noisy data to train AIs better). 
+I'm Devashish, a passionate AI/ML enthusiast and software developer. I'm currently working on projects that leverage machine learning to solve complex problems, improve user experiences, help hoomans reach mars (by generating noisy data to train AIs better). 
 
 ##  About Me
 

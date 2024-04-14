@@ -17,10 +17,13 @@ I'm Devashish, a passionate AI/ML enthusiast and software developer. I'm current
 - [Twitter](https://twitter.com/faxtorjoe)
 - [Email](mailto:devashishthapliyal1@gmail.com)
 
-  
-## ⚡ Fun fact
 
-- I can deadlift 220kg (conventional).
+---
+## Publications
+
+- **Tensor Decomposition of Foot Pressure for Classification of Neurodegenerative Diseases**
+ [Google Scholar]
+(https://ieeexplore.ieee.org/abstract/document/10490007?casa_token=x-SHsoG_PQUAAAAA:eLT6HrbUu0FAI7DN159tx3sFJK91McQn98XruCeOlDiihecAPOa2rDvbaZPPP6iBav8PXimuJA)
 
 ---
 ## Tech Stack
@@ -37,5 +40,8 @@ I'm Devashish, a passionate AI/ML enthusiast and software developer. I'm current
 ![Signal Processing](https://img.shields.io/badge/Signal_Processing-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-007ACC?style=for-the-badge&logo=python&logoColor=white)
 
+---
 
+## ⚡ Fun fact
 
+- I can deadlift 220kg (conventional).

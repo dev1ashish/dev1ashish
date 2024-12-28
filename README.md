@@ -5,7 +5,6 @@ I'm Devashish, a passionate AI/ML enthusiast and software developer. I'm current
 ##  About Me
 
 - 🌱 I'm currently learning about LLMs.
-- 👯 I'm looking to collaborate on Research in AI/ML.
 - ⚡ Random fact: boat is the inverse function of a bathtub.
 - 🚀 e/acc enthusiast
 
